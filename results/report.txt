@@ -1,0 +1,40 @@
+STUDENT PERFORMANCE REPORT
+---------------------------
+
+Student Averages
+Aman : 75.75
+Riya : 88.5
+Rahul : 52.5
+Sneha : 91.25
+Arjun : 68.75
+
+
+Top Performer
+Sneha with an average score of 91.25
+
+
+Subject-wise Average
+Math : 73.6
+Science : 77.4
+English : 75.2
+History : 75.2
+
+
+Hardest Subject
+Math
+
+
+Student Ranking
+1. Sneha
+2. Riya
+3. Aman
+4. Arjun
+5. Rahul
+
+
+Grade Distribution
+A : Sneha
+B : Riya
+C : Aman
+D : Arjun
+F : Rahul
